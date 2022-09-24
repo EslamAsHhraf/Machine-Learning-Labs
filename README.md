@@ -23,7 +23,7 @@
 
 <li>My solutions to practice labs in Machine Learning Specialization by Andrew Ng</li>
 <br>
-<li>Content of Course
+<li>The Content
 
 <ul>
 <li>Supervised Machine Learning Regression and Classification</li>
