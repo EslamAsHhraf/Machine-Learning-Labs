@@ -21,7 +21,7 @@
 
 <ul>
 
-<li>My solutions to practice labs in Machine Learning Specialization courses by Andrew Ng</li>
+<li>My solutions to practice labs in Machine Learning Specialization by Andrew Ng</li>
 <br>
 <li>Content of Course
 
