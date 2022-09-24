@@ -22,10 +22,10 @@
 <ul>
 
 <li>My solutions to practice labs in Machine Learning Specialization courses by Andrew Ng</li>
+<br>
 <li>Content of Course
 
 <ul>
-<br>
 <li>Supervised Machine Learning Regression and Classification</li>
 <ul>
 <li>Regularization to Avoid Overfitting</li>
