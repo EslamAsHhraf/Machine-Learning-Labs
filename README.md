@@ -3,11 +3,7 @@
 <div align="center">
 
 <img height=450px src="https://cdn.rentechdigital.com/common_files/common_integration/swipecart/Blog/machine-learning-1.gif">
-<div align="center"  width=10%>
 
-### "Invest with us and be a winner💸"
-
-</div>
 </div>
 
 <hr style="background-color: #4b4c60"></hr>
@@ -15,8 +11,8 @@
 ## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
-- <a href ="#Contributors"> ✨ Contributors</a>
 - <a href ="#Structure"> 🧱 File Structure</a>
+- <a href ="#Contributors"> ✨ Contributors</a>
 - <a href ="#License"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
@@ -38,7 +34,6 @@
 <li>Linear Regression</li>
 <li>Logistic Regression for Classification</li>
 </ul>
-<br>
 <li>Advanced Learning Algorithms</li>
 <ul>
 <li>Artificial Neural Network</li>
@@ -47,7 +42,6 @@
 <li>Tree Ensembles</li>
 <li>Advice for Model Development</li>
 </ul>
-<br>
 <li>Unsupervised Learning, Recommenders, Reinforcement Learning</li>
 <ul>
 <li>Collaborative Filtering</li>
@@ -92,6 +86,18 @@ Machine Learning Labs
 ├── LICENSE
 └── README.md
 ```
+
+<hr style="background-color: #4b4c60"></hr>
+<a id ="Contributors"></a>
+
+## <img align="center"  height =60px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> Contributors
+
+<br>
+<table >
+  <tr>
+        <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="200px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
+  </tr>
+</table>
 
 <hr style="background-color: #4b4c60"></hr>
 
