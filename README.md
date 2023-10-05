@@ -1,4 +1,4 @@
-# <img  align="center" height= 70px  src="https://media0.giphy.com/media/9rCTLTyw9nyKKvof5h/giphy.gif?cid=ecf05e479blxx1otdw1kzntuju69rb5ska47qkml8gs9kx5m&rid=giphy.gif&ct=s"> Machine Learning Labs
+# 🤖 Machine Learning Labs
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#structure"> 🧱 File Structure</a>
@@ -17,7 +17,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
-## <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> Overview
+## 📙 Overview
 
 <ul>
 
@@ -56,7 +56,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id="Structure"> </a>
 
-## <img align= center width=60px height=60px src="https://media1.giphy.com/media/igsIZv3VwIIlRIpq5G/giphy.gif?cid=ecf05e47faatmwdhcst7c2d4eontr459hjd35zf3an324elo&rid=giphy.gif&ct=s"> File Structure
+## 🗃️ File Structure
 
 ```
 Machine Learning Labs
@@ -90,7 +90,7 @@ Machine Learning Labs
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
 
-## <img align="center"  height =60px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> Contributors
+## 👑 Contributors
 
 <br>
 <table >
